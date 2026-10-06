@@ -6,7 +6,8 @@
 ## has more thorough IDE-specific entries.
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
-
+README2.md
+**/.DS_Store
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
